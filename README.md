@@ -1,4 +1,4 @@
-# DSCD_Assignment1
+# Distributed Nexus
 
 
 command to create proto-grpc files
